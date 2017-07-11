@@ -8,6 +8,7 @@
 0. [世界顶尖设计师设计](https://dribbble.com/)
     + [个人简历](https://dribbble.com/search?q=resume)
     + 
+0. [JS高级程序设计 1-5](http://www.cnblogs.com/zxx1997/p/6896635.html)
 ## 项目练习
 
 1. HTML/CSS项目
