@@ -7,7 +7,7 @@
 0. [前端资源导航](https://nav.phpfamily.org/)
     + []()
 0. [世界顶尖设计师设计](https://dribbble.com/)
-    + [个人简历](https://dribbble.com/search?q=resume)
+    + [个人简历](https://dribbble.com/search?q=resume)
 
 ## 项目练习
 
