@@ -9,6 +9,7 @@
     + [个人简历](https://dribbble.com/search?q=resume)
     + 
 0. [JS高级程序设计 1-5](http://www.cnblogs.com/zxx1997/p/6896635.html)
+0. [深入理解JS原型链，闭包，作用域](http://www.cnblogs.com/wangfupeng1988/p/4001284.html)
 ## 项目练习
 
 1. HTML/CSS项目
