@@ -10,6 +10,7 @@
     + 
 0. [JS高级程序设计 1-5](http://www.cnblogs.com/zxx1997/p/6896635.html)
 0. [深入理解JS原型链，闭包，作用域](http://www.cnblogs.com/wangfupeng1988/p/4001284.html)
+0. [html5的新增的标签和废除的标签](http://www.cnblogs.com/mzwhj/archive/2013/02/18/2916393.html)
 ## 项目练习
 
 1. HTML/CSS项目
