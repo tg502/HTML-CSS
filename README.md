@@ -13,5 +13,5 @@
 0. [html5的新增的标签和废除的标签](http://www.cnblogs.com/mzwhj/archive/2013/02/18/2916393.html)
 ## 项目练习
 
-1. HTML/CSS项目
+0. [魔艺网站](http://www.uemo.net/)
 2. JAVASCRPT/JQ项目
