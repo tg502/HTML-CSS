@@ -2,7 +2,7 @@
 
 ## 如何学习前端
 
-0. [阮一峰的网络日志](http://www.ruanyifeng.com/blog/javascript/)（蚂蚁金服）
+1. [阮一峰的网络日志](http://www.ruanyifeng.com/blog/javascript/)（蚂蚁金服）
 0. [前端开发中文文档导航](http://cndevdocs.com/)
 0. [前端资源导航](https://nav.phpfamily.org/)
 0. [世界顶尖设计师设计](https://dribbble.com/)
@@ -14,9 +14,9 @@
 0. [前端学习路线](http://www.html5dw.com/post/5046)
 ## 项目练习
 
-0. [魔艺网站](http://www.uemo.net/)
-2. JAVASCRPT/JQ项目
+1. [魔艺网站](http://www.uemo.net/)
+0. JAVASCRPT/JQ项目
 
 
 ## 工具
-0. [正则转换工具](https://regexper.com/#%5Cd*)
+1. [正则转换工具](https://regexper.com/#%5Cd*)
