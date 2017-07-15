@@ -15,8 +15,8 @@
 ## 项目练习
 
 1. [魔艺网站](http://www.uemo.net/)
-0. JAVASCRPT/JQ项目
-
+0. [前端项目从0到1的感悟](http://www.cnblogs.com/liliangel/p/6732507.html)
+0. [github上值得关注的前端项目](https://segmentfault.com/a/1190000002804472)
 
 ## 工具
 1. [正则转换工具](https://regexper.com/#%5Cd*)
