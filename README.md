@@ -1,5 +1,7 @@
 # 我的博客
 
+# [前端工程师从入门到BAT校招](http://www.jianshu.com/p/74e3a243b5ab)
+
 ## 如何学习前端
 
 1. [阮一峰的网络日志](http://www.ruanyifeng.com/blog/javascript/)（蚂蚁金服）
