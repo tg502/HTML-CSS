@@ -19,6 +19,9 @@
 1. [魔艺网站](http://www.uemo.net/)
 0. [前端项目从0到1的感悟](http://www.cnblogs.com/liliangel/p/6732507.html)
 0. [github上值得关注的前端项目](https://segmentfault.com/a/1190000002804472)
+0. [实例索引](http://www.fgm.cc/learn/)
+0. [JQ实例教程](http://www.cnblogs.com/lhb25/p/20-must-have-jquery-tutorials.html)
 
 ## 工具
 1. [正则转换工具](https://regexper.com/#%5Cd*)
+0. [手把手教 GitHub + Hexo 搭建博客](http://www.jianshu.com/p/ab21abc31153)
