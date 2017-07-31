@@ -13,6 +13,7 @@
 0. [深入理解JS原型链，闭包，作用域](http://www.cnblogs.com/wangfupeng1988/p/4001284.html)
 0. [html5的新增的标签和废除的标签](http://www.cnblogs.com/mzwhj/archive/2013/02/18/2916393.html)
 0. [前端学习路线](http://www.html5dw.com/post/5046)
+0. [前端算法](http://www.jianshu.com/c/b52122434963)
 
 ## 项目练习
 
